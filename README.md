@@ -40,3 +40,24 @@ So, agile is focuses on:
 * Measure success by delivering value with working software
 * Customer collaboration in the process of development
 * Response to change in requirements and priorities
+
+
+# Scrum
+Scrum - agile model of developing a software.
+
+---
+
+#### Who built up a scrum team and they roles.
+
+Scrum team is usually built up with:
+
+* Product Owner
+> He serve the voice of a customer and maintain the product backlog *(the tasks that dev team can start in new sprint)*
+He responsible for figuring out at which tasks dev team should work on and in which order. And also, he spend alot of time talking with team and customer.
+* Stakeholder
+> Someone **Outside** scrum team, who can say, what the product should be. Stakeholder can be someone inside the organisation (like a Manager or Team Lead), or someone outside the organisation (like a client or customer).
+Product Owner *Must* consult stakeholder to understand product and priority
+* Scrum Master
+> He responsible for make sure that development team goes smoothly
+* Development Team Member
+> 
