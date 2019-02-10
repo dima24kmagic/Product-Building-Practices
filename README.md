@@ -60,4 +60,4 @@ Product Owner *Must* consult stakeholder to understand product and priority
 * Scrum Master
 > He responsible for make sure that development team goes smoothly
 * Development Team Member
-> 
+> These write and tests code:)
